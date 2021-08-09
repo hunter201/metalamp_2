@@ -2,7 +2,7 @@
   "name": "metalamp_2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack --mode development",
@@ -35,6 +35,7 @@
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
+    "jquery": "^3.6.0",
     "normalize.css": "^8.0.1"
   }
 }

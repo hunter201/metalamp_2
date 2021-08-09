@@ -16,7 +16,7 @@
   \*********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_style_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../styles/style.scss */ \"./assets/styles/style.scss\");\n\r\n\r\nlet count = 1;\r\nconst dev = \"developmenting\";\r\ndocument.addEventListener('click', () => {\r\n    count++;\r\n    console.log(count);\r\n})\r\n\r\n\n\n//# sourceURL=webpack://metalamp_2/./assets/scripts/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_style_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../styles/style.scss */ \"./assets/styles/style.scss\");\n\r\n\r\n\r\nlet count = 1;\r\nconst dev = \"developmenting\";\r\ndocument.addEventListener('click', () => {\r\n    count++;\r\n    console.log(count);\r\n})\r\n\r\n\n\n//# sourceURL=webpack://metalamp_2/./assets/scripts/index.js?");
 
 /***/ }),
 
