@@ -1,11 +1,25 @@
+/*!****************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./assets/styles/fonts.scss ***!
+  \****************************************************************************/
+@font-face {
+    font-family: Roboto, sans-serif;
+    src: url(a8d6ac03c7b96b7acb62.ttf);
+}
 /*!*******************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./assets/styles/style.scss ***!
   \*******************************************************************************************************************/
 html {
-  font-size: 10px; }
+  font-size: 10px;
+  font-family: Roboto; }
 
 h1 {
-  color: #3f0; }
+  text-align: center;
+  color: #3f0;
+  font-size: 5rem; }
+
+h2 {
+  text-align: center;
+  font-size: 2.5rem; }
 
 .logo {
   background-image: url(963ad4288c573e262ce4.png);
